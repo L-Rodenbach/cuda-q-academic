@@ -9,8 +9,8 @@ For system uniformity during the worksop we suggest that you run the notebooks u
 
 | Notebook    | Google Colab[^1] |
 | ----------- | ----------- |
-| 00 - CUDA-Q Basics | [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NVIDIA/cuda-q-academic/blob/2026-workshops/NCSA-workshop/quick-start-to-quantum/00_cudaq_basics.ipynb)|
-| 01 - Quantum Walks Part 1  |  [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NVIDIA/cuda-q-academic/blob/2026-workshops/NCSA-workshop/quantum-applications-to-finance/01_quantum_walks.ipynb)| 
-| Lab 4 - Quantum Walks Part 2 |  [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NVIDIA/cuda-q-academic/blob/2026-workshops/NCSA-workshop/quantum-applications-to-finance/02_quantum_walks.ipynb)| 
+| 00 - CUDA-Q Basics | [![](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/L-Rodenbach/cuda-q-academic/blob/2026-workshops/NCSA-workshop/quick-start-to-quantum/00_cudaq_basics.ipynb)|
+| 01 - Quantum Walks Part 1  |  [![](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/L-Rodenbach/cuda-q-academic/blob/2026-workshops/NCSA-workshop/quick-start-to-quantum/01_quantum_walks.ipynb)| 
+| 02 - Quantum Walks Part 2 |  [![](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/L-Rodenbach/cuda-q-academic/blob/2026-workshops/NCSA-workshop/quantum-applications-to-finance/02_quantum_walks.ipynb)| 
 
 [^1]:You will need to run the command `!pip install cudaq` in a python code block in each notebook to run on Google CoLab.
